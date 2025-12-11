@@ -1,11 +1,8 @@
-# Python virtual environment
-.venv
-venv
-/venv
+# ENV files
 .env
-env
-/env
 
+# Virtual environment
+venv/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -24,9 +21,9 @@ __pycache__/
 user/migrations/
 migrations
 
+# Pycache
+__pycache__/
 
 
-# database
+# SQLite DB
 db.sqlite3
-# /db.sqlite3
-# *.sqlite3
