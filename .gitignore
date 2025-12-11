@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv
+venv
+/venv
+.env
+env
+/env
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+
+# IDE files
+.idea/
+.vscode/
+
+#migrations
+/user/migrations/
+user/migrations/
+migrations
